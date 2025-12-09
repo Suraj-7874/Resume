@@ -1,1 +1,3 @@
-![Main Page](./Suraaj_2025.pdf) 
+```
+![Click here to view my fresher resume. ](./Suraaj_2025.pdf) 
+```
