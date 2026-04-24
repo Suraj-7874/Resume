@@ -1,2 +1,2 @@
            
- ![Resume](./src/screenshots/Home.png)    
+ ![Resume](./Suraj_surve_2026.pdf)    
