@@ -1,3 +1,2 @@
            
-=====>    |      ![Click here to view my fresher resume. ](./Suraaj_2025.pdf)   
-           
+ ![Resume](./src/screenshots/Home.png)    
