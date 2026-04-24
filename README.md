@@ -1,2 +1,2 @@
            
- ![Resume](./Suraj_surve_2026.pdf)    
+ ![Resume](Suraj_surve_2026.pdf)    
